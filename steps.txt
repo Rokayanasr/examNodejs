@@ -1,0 +1,11 @@
+1- install express and json web token (jwt)
+
+2- install nodemon to watch the application
+
+3- make the routes to post and so on ..
+
+4- make webtoken (asycn)
+
+5- make a middleware function to verify token
+
+6- format of token
